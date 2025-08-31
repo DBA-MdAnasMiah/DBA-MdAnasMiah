@@ -85,19 +85,19 @@
 
 ### 🏅 Certifications  
 
+### 🏅 Certifications  
+
 <p align="center">
-  <!-- CompTIA Security+ animated badge -->
+  <!-- CompTIA Security+ badge -->
   <a href="https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white&animation=glitch" alt="CompTIA Security+" />
+    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
   </a>
 
-  <!-- AWS Solutions Architect Associate animated badge -->
+  <!-- AWS Solutions Architect Associate badge -->
   <a href="https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&animation=glitch" alt="AWS Solutions Architect Associate" />
+    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Solutions Architect Associate" />
   </a>
 </p>
-
-
 
 
 
