@@ -83,12 +83,28 @@
 
 
 <p align="center">
+  <!-- Animated CompTIA Security+ badge -->
   <a href="https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white&animation=glow" 
+         style="vertical-align: middle; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Animated AWS Solutions Architect Associate badge -->
   <a href="https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&animation=glow" 
+         style="vertical-align: middle; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
+
+<p align="center">
+  <sub>Hover over each badge to see the zoom animation ✨</sub>
+</p>
+
+
 
 
 
