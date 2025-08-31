@@ -32,12 +32,6 @@
 
 # 🗄️ Database Administration (MS SQL Server & Oracle)
 <p align="center">
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-blue?style=for-the-badge&animation=glitch" />
-  <img src="https://img.shields.io/badge/T-SQL-green?style=for-the-badge&animation=glitch" />
-</p>
-
 ### 🔑 Expertise :
 - Database Design & Modeling  
 - Query Optimization & Indexing  
