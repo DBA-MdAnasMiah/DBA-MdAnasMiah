@@ -82,9 +82,10 @@
 ---
 
 ### 🏅 Certifications
+### 🏅 Certifications
 
-- [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url)  
-- [![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url)  
+- [AWS Solutions Architect – Associate](https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url)
 
 
 
