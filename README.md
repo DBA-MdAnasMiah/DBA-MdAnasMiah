@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-### 🔑 Topics:
+### 🔑 Expertise :
 - Cloud Migrations (On-prem ➝ Cloud)  
 - RDS, Aurora, Azure SQL Database  
 - IAM, Security Groups, Networking  
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-### 🔑 Topics:
+### 🔑 Expertise :
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
 - Infrastructure as Code (Terraform, Ansible)  
 - Containerization (Docker, Kubernetes)  
@@ -84,4 +84,3 @@
 </p>
 
 ---
-✨ *Crafted with passion for Databases, Cloud & DevOps* ✨
