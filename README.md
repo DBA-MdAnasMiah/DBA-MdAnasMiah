@@ -90,17 +90,8 @@
     <img src="https://img.shields.io/badge/CompTIA%20Certified-E82A27?style=for-the-badge&logo=comptia&logoColor=white" />
   </a>
   
-  <a href="https://education.oracle.com/oracle-database-certification/">
-    <img src="https://img.shields.io/badge/Oracle%20Database%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/certifications/">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20DBA-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
-    <img src="https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  </a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="14193a57-fe39-4189-9ff1-0666d08313b9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
+
 </p>
 
 ---
