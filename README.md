@@ -30,11 +30,11 @@
 
 ---
 
-# 🗄️ Database Administration (MS SQL Server & Oracle)
+## 🗄️ Database Administration (MS SQL Server & Oracle)
 <p align="center">
 
   
-### 🔑 Expertise :
+#### 🔑 Expertise :
 - Database Design & Modeling  
 - Query Optimization & Indexing  
 - Performance Tuning & Troubleshooting  
@@ -44,13 +44,10 @@
 
 ---
 
-# ☁️ Cloud Expertise (AWS & Azure)
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&animation=glitch" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&animation=glitch" />
-</p>
+## ☁️ Cloud Expertise (AWS & Azure)
 
-### 🔑 Expertise :
+
+#### 🔑 Expertise :
 - Cloud Migrations (On-prem ➝ Cloud)  
 - RDS, Aurora, Azure SQL Database  
 - IAM, Security Groups, Networking  
@@ -60,7 +57,7 @@
 
 ---
 
-# ⚙️ DevOps & Automation
+## ⚙️ DevOps & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&animation=glitch" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&animation=glitch" />
@@ -69,7 +66,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&animation=glitch" />
 </p> 
 
-### 🔑 Expertise :
+#### 🔑 Expertise :
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
 - Infrastructure as Code (Terraform, Ansible)  
 - Containerization (Docker, Kubernetes)  
@@ -78,7 +75,7 @@
 
 ---
 
-### 🏅 Certifications & Achievements
+#### 🏅 Certifications & Achievements
 
 - [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url)  
 - [![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url)
