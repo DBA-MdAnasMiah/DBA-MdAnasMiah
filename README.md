@@ -82,5 +82,5 @@
 - AWS Solutions Architect Associate
 ---
 
-#### 🌐 Connect With Me
-- mdmiah5010@gmail.com
+#### 🌐 Connect With Me at mdmiah5010@gmail.com
+
