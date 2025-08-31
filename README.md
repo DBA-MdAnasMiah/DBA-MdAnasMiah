@@ -13,11 +13,11 @@
 ## 🌟 About Me
 🔹 Experienced **Database Administrator (DBA)** specializing in **MS SQL Server** & **Oracle**  
 🔹 Skilled in **Cloud Platforms**: AWS ☁️ & Azure 🌐  
-🔹 Hands-on with **DevOps, Automation & CI/CD pipelines**  
+🔹 Proficient in **Windows & Linux Administration** 🖥️🐧  
+🔹 Hands-on with **DevOps, Automation & CI/CD pipelines** ⚙️  
+🔹 Programming in **Java** ☕ & **Python** 🐍  
 🔹 Passion for **Database Optimization, Cloud Architecture, and Infrastructure as Code**
-
 ---
-
 ## ⚡ Skill Showcase
 
 <p align="center">
