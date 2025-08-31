@@ -80,19 +80,13 @@
 
 
 ### 🏅 Certifications  
-
 <p align="center">
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <a href="https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/14193a57-fe39-4189-9ff1-0666d08313b9/aws-certified-solutions-architect-associate.png" 
+         width="150" height="150" alt="AWS Certified Solutions Architect – Associate Badge"/>
   </a>
-  
-  <a href="https://www.comptia.org/certifications">
-    <img src="https://img.shields.io/badge/CompTIA%20Certified-E82A27?style=for-the-badge&logo=comptia&logoColor=white" />
-  </a>
-  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="14193a57-fe39-4189-9ff1-0666d08313b9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
-
 </p>
+
 
 ---
 
