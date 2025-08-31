@@ -81,8 +81,7 @@
 
 ---
 
-### 🏅 Certifications
-### 🏅 Certifications
+### 🏅 Certifications & Achievements
 
 - [CompTIA Security+](https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url)  
 - [AWS Solutions Architect – Associate](https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url)
