@@ -67,10 +67,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+</p> 
 
 ### 🔑 Expertise :
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
@@ -82,8 +82,6 @@
 ---
 
 
-
-### 🏅 Certifications  
 
 ### 🏅 Certifications  
 
