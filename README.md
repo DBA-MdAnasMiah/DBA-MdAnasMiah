@@ -85,7 +85,7 @@
 <p align="center">
   <!-- CompTIA Security+ animated badge -->
   <a href="https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white&animation=glitch" alt="CompTIA Security+" />
+    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-E82A27?style=for-the-badge&logo=comptia&logoColor=white&animation=glitch" alt="CompTIA Security+" /> <br>
   </a>
 
   <!-- AWS Solutions Architect Associate animated badge -->
