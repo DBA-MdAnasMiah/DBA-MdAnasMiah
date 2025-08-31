@@ -78,6 +78,33 @@
 
 ---
 
+
+### 🏅 Certifications  
+
+<p align="center">
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
+    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  </a>
+  
+  <a href="https://www.comptia.org/certifications">
+    <img src="https://img.shields.io/badge/CompTIA%20Certified-E82A27?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>
+  
+  <a href="https://education.oracle.com/oracle-database-certification/">
+    <img src="https://img.shields.io/badge/Oracle%20Database%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-us/certifications/">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20DBA-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
+    <img src="https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:mdmiah5010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
