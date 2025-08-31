@@ -1,10 +1,11 @@
 <!-- Fancy GitHub Profile README -->
 
-<h1 align="center">👋 Hello, I'm Anas Miah</h1>
-<h3 align="center">💻 DBA | IT Programmer | DevOps & Cloud Engineer Enthusiast</h3>
+<h1 align="center"> Hello, welcome to my playground, I'm Anas Miah </h1>
+<h3 align="center">💻 DBA | IT Programmer | DevOps/Cloud Engineer Enthusiast </h3>
 
 <p align="center">
-🎓 Bachelor's in Computer Information Systems &nbsp; | &nbsp; 🎓 Associate Degree in IT Programming (Concentration)
+  🎓 Bachelor's in Computer Information Systems  
+  🎓 Associate Degree in IT Programming (Concentration)  
 </p>
 
 ---
@@ -24,7 +25,7 @@
 ## ⚡ Skill Showcase
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7B7&center=true&vCenter=true&width=700&lines=MS+SQL+Server+%7C+Oracle+DBA;AWS+%7C+Azure+Cloud;DevOps+CI%2FCD+%7C+Terraform+%7C+Ansible;IT+Programmer+%7C+Database+Optimizer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7B7&center=true&vCenter=true&width=600&lines=MS+SQL+Server+%7C+Oracle+DBA;AWS+%7C+Azure+Cloud;DevOps+CI%2FCD+%7C+Terraform+%7C+Ansible;IT+Programmer+%7C+Database+Optimizer" />
 </p>
 
 ---
@@ -70,7 +71,7 @@
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white&animation=glitch" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=glitch" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&animation=glitch" />
-</p>
+</p> 
 
 ### 🔑 Expertise :
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
@@ -84,13 +85,15 @@
 ### 🏅 Certifications & Achievements
 
 <p align="center">
-  [CompTIA Security+](https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url)  
-  [AWS Solutions Architect – Associate](https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url)  
+- [AWS Solutions Architect – Associate](https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url)
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:mdmiah5010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glitch" /></a>
+  <a href="mailto:mdmiah5010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glitch" />
+  </a>
 </p>
