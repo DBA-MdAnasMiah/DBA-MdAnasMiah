@@ -81,9 +81,5 @@
 - AWS Solutions Architect Associate
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:mdmiah5010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glitch" />
-  </a>
-</p>
+#### 🌐 Connect With Me
+- mdmiah5010@gmail.com
