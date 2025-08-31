@@ -11,12 +11,14 @@
 ---
 
 ## 🌟 About Me
-🔹 Experienced **Database Administrator (DBA)** specializing in **MS SQL Server** & **Oracle**  
-🔹 Skilled in **Cloud Platforms**: AWS ☁️ & Azure 🌐  
-🔹 Proficient in **Windows & Linux Administration** 🖥️🐧  
-🔹 Hands-on with **DevOps, Automation & CI/CD pipelines** ⚙️  
-🔹 Programming in **Java** ☕ & **Python** 🐍  
-🔹 Passion for **Database Optimization, Cloud Architecture, and Infrastructure as Code**
+<p align="left" style="font-family: 'Century Gothic', 'Trebuchet MS', sans-serif; font-size:14px; line-height:1.6;">
+🔹 Experienced <b>Database Administrator (DBA)</b> specializing in <b>MS SQL Server</b> & <b>Oracle</b><br>
+🔹 Skilled in <b>Cloud Platforms</b>: AWS ☁️ & Azure 🌐<br>
+🔹 Proficient in <b>Windows & Linux Administration</b> 🖥️🐧<br>
+🔹 Hands-on with <b>DevOps, Automation & CI/CD pipelines</b> ⚙️<br>
+🔹 Programming in <b>Java</b> ☕ & <b>Python</b> 🐍<br>
+🔹 Passion for <b>Database Optimization, Cloud Architecture, and Infrastructure as Code</b>
+</p>
 ---
 ## ⚡ Skill Showcase
 
