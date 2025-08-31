@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/T-SQL-green?style=for-the-badge" />
 </p>
 
-### 🔑 Topics:
+### 🔑 Expertise :
 - Database Design & Modeling  
 - Query Optimization & Indexing  
 - Performance Tuning & Troubleshooting  
