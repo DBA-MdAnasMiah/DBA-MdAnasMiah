@@ -84,13 +84,13 @@
   <!-- AWS Solutions Architect Associate -->
   <a href="https://www.credly.com/badges/14193a57-fe39-4189-9ff1-0666d08313b9/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/14193a57-fe39-4189-9ff1-0666d08313b9/aws-certified-solutions-architect-associate.png" 
-         width="150" height="150" alt="AWS Certified Solutions Architect – Associate"/>
+         width="150" height="150" alt="CompTIA Security+"/>
   </a>
 
   <!-- CompTIA (or your second AWS cert from provided link) -->
   <a href="https://www.credly.com/badges/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/569fcaf8-aa9a-4dd3-928c-2e66c3592cb7/aws-certified-cloud-practitioner.png" 
-         width="150" height="150" alt="AWS Certified Cloud Practitioner"/>
+         width="150" height="150" alt="AWS Certified Solution Architect - Associate"/>
   </a>
 </p>
 
