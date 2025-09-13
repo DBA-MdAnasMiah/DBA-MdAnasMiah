@@ -5,7 +5,7 @@
 
 <p align="center">
   🎓 Bachelor's in Computer Information Systems  
-  🎓 Associate Degree in IT Programming (Concentration)  
+  🎓 Associate Degree in IT Programming
 </p>
 
 ---
