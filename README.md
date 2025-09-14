@@ -1,7 +1,7 @@
 <!-- Fancy GitHub Profile README -->
 
 <h1 align="center"> Hello, welcome to my playground, I'm Anas Miah </h1>
-<h3 align="center">💻 DBA | IT Programmer | DevOps/Cloud Engineer Enthusiast </h3>
+<h3 align="center">💻 DBA | AWS Solution Architect| IT Programmer </h3>
 
 <p align="center">
   🎓 Bachelor's in Computer Information Systems  
