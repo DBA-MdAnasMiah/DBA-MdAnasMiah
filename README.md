@@ -10,7 +10,7 @@
 
 ---
 
-## • Information About me 
+## ● Information About me 
 <p align="left" style="font-family: 'Century Gothic', 'Trebuchet MS', sans-serif; font-size:14px; line-height:1.6;">
 🔹 Experienced <b>Database Administrator (DBA)</b> specializing in <b>MS SQL Server</b> & <b>Oracle</b><br>
 🔹 Skilled in <b>Cloud Platforms</b>: AWS ☁️ & Azure 🌐<br>
