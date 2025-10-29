@@ -22,7 +22,7 @@
 
 ---
 
-## ● Skill Showcase
+## ● Skillsets
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7B7&center=true&vCenter=true&width=600&lines=MS+SQL+Server+%7C+Oracle+DBA;AWS+%7C+Azure+Cloud;DevOps+CI%2FCD+%7C+Terraform+%7C+Ansible;IT+Programmer+%7C+Database+Optimizer" />
