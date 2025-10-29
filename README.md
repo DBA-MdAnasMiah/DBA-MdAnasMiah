@@ -10,7 +10,7 @@
 
 ---
 
-## -> Information About me 
+## ● Information About me 
 <p align="left" style="font-family: 'Century Gothic', 'Trebuchet MS', sans-serif; font-size:14px; line-height:1.6;">
 🔹 Experienced <b>Database Administrator (DBA)</b> specializing in <b>MS SQL Server</b> & <b>Oracle</b><br>
 🔹 Skilled in <b>Cloud Platforms</b>: AWS ☁️ & Azure 🌐<br>
@@ -22,7 +22,7 @@
 
 ---
 
-## -> Skill Showcase
+## ● Skill Showcase
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7B7&center=true&vCenter=true&width=600&lines=MS+SQL+Server+%7C+Oracle+DBA;AWS+%7C+Azure+Cloud;DevOps+CI%2FCD+%7C+Terraform+%7C+Ansible;IT+Programmer+%7C+Database+Optimizer" />
