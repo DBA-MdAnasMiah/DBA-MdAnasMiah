@@ -1,7 +1,11 @@
 <!-- Fancy GitHub Profile README -->
 
-<h1 align="center"> Hello World, welcome to my Castle,  I'm Anas Miah </h1>
-📄 **Read More:** [My Google Doc](https://docs.google.com/document/d/1eXpwhZooKrT6Cooi8b_1b-j-FxiJ8ybTaMNhV4WTU8M/edit?tab=t.0)
+<h1 align="center">
+  Hello World, welcome to my Castle,
+  <a href="https://docs.google.com/document/d/1eXpwhZooKrT6Cooi8b_1b-j-FxiJ8ybTaMNhV4WTU8M/edit?tab=t.0" target="_blank" style="text-decoration: underline; color: inherit;">
+    I'm Anas Miah
+  </a>
+</h1>
 
 <h3 align="center">💻 DBA | AWS Solution Architect | IT Programmer </h3>
 
